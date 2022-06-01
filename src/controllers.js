@@ -1,0 +1,1 @@
+export const index = (req, res) => res.send('<h1>Seems to be working.</h1>');
