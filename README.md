@@ -1,6 +1,6 @@
 # Banco de dados da lista de operadoras ANS
 
-Recebe solicitações do <a href='https://github.com/pablofsc/interface-ic'>front</a> e as realiza no banco de dados. <br>
+Recebe solicitações do <a href='https://github.com/pablofsc/operadoras-ans'>front</a> e as realiza no banco de dados. <br>
 Este projeto deve ser hospedado no Heroku com um banco PostgreSQL devidamente configurado e carregado com os dados <a href='http://www.ans.gov.br/externo/site_novo/informacoes_avaliacoes_oper/lista_cadop.asp'>deste CSV<a>.
 
 ## Principais tecnologias utilizadas

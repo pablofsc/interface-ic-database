@@ -1,5 +1,5 @@
 {
-  "name": "interface-ic-node",
+  "name": "operadoras-ans-db",
   "version": "1.0.0",
   "description": "",
   "main": "./src/server.js",

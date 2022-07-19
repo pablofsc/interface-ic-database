@@ -30,7 +30,7 @@ const validateReferenceToExistingEntry = async (response, data) => {
     return true;
 };
 
-export const index = (req, res) => res.send('<h1>Seems to be working.</h1>');
+export const index = (req, res) => res.send('<h1>Funcionando</h1>');
 
 export const getTable = (req, res) => {
     console.log("Received request for the entire table...");
